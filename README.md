@@ -10,3 +10,12 @@
 8. I can't decide which [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) I hate the most
 9. [Haskell](https://www.haskell.org) still scares me
 10. I still chuckle when somebody mentions the good old [AbstractSingletonProxyFactoryBean](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.html)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kyusu&column=7"/>
+</a>
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kyusu&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyusu&layout=compact" />
+</div>
