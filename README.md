@@ -1,7 +1,7 @@
 ### Ten useless facts about me
 
 1. My favorite [Cherry MX](https://www.cherrymx.de/en) switch is the [Ergo Clear](https://deskthority.net/wiki/Cherry_MX_Ergo_Clear) (but I'm really a [Topre](https://www.realforce.co.jp/en/features/) fan)
-2. My favorite [Darktrone](https://www.metal-archives.com/bands/Darkthrone/146) album is [Transilvanian Hunger](https://www.metal-archives.com/albums/Darkthrone/Transilvanian_Hunger/624), but [Goatlord](https://www.metal-archives.com/albums/Darkthrone/Goatlord/1926) is a highlight too
+2. My favorite [Darkthrone](https://www.metal-archives.com/bands/Darkthrone/146) album is [Transilvanian Hunger](https://www.metal-archives.com/albums/Darkthrone/Transilvanian_Hunger/624), but [Goatlord](https://www.metal-archives.com/albums/Darkthrone/Goatlord/1926) is a highlight too
 3. So far I dislike all major solutions for asynchronous functions in JavaScript: callbacks (hard to compose), async/await (abstraction too leaky) and promises (not [monadic](https://github.com/promises-aplus/promises-spec/issues/94#issuecomment-16176966) enough)
 4. I still own a [CD player](https://en.wikipedia.org/wiki/CD_player) 🙀 (and CDs obviously)
 5. I've read [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) 7 times but never watched the movies
